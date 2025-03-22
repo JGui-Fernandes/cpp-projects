@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1742597223 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\calculadora\calculadora.cpp
+	"Calculadora.h"
+
+1742597066 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\calculadora\calculadora.h
+	<string>
+	<iostream>
+
+1742597265 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\calculadora\empresa.cpp
+	"Empresa.h"
+
+1742597109 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\calculadora\empresa.h
+	<string>
+	<iostream>
+	"FuncionarioCaixa.h"
+
+1742597189 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\calculadora\funcionariocaixa.h
+	<string>
+	<iostream>
+	"Calculadora.h"
+
+1742597293 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\calculadora\funcionariocaixa.cpp
+	"FuncionarioCaixa.h"
+
