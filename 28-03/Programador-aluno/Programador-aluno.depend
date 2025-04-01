@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1743530788 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\programador-aluno\pessoa.cpp
+	"Pessoa.h"
+
+1743533504 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\programador-aluno\pessoa.h
+	<string>
+	<iostream>
+
+1743533386 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\programador-aluno\main.cpp
+	<iostream>
+	"Pessoa.h"
+	"Aluno.h"
+	"Programador.h"
+
+1743533247 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\programador-aluno\aluno.h
+	<string>
+	<iostream>
+	"Pessoa.h"
+
+1743533198 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\programador-aluno\programador.h
+	<string>
+	<iostream>
+	"Pessoa.h"
+
+1743531185 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\programador-aluno\programador.cpp
+	"Programador.h"
+	"Pessoa.h"
+
+1743531653 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\programador-aluno\aluno.cpp
+	"Aluno.h"
+	"Pessoa.h"
+
