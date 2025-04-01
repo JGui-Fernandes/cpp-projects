@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="calculadora" />
+		<Option title="Atletas" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/calculadora" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Atletas" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/calculadora" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Atletas" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,15 +32,19 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Calculadora.cpp" />
-		<Unit filename="Calculadora.h" />
-		<Unit filename="Empresa.cpp" />
-		<Unit filename="Empresa.h" />
-		<Unit filename="FuncionarioCaixa.cpp" />
-		<Unit filename="FuncionarioCaixa.h" />
+		<Unit filename="Atleta.cpp" />
+		<Unit filename="Atleta.h" />
+		<Unit filename="Competicao.cpp" />
+		<Unit filename="Competicao.h" />
+		<Unit filename="Corredor.cpp" />
+		<Unit filename="Corredor.h" />
+		<Unit filename="Data.cpp" />
+		<Unit filename="Data.h" />
+		<Unit filename="InformacoesAtleta.cpp" />
+		<Unit filename="InformacoesAtleta.h" />
+		<Unit filename="Nadador.cpp" />
+		<Unit filename="Nadador.h" />
 		<Unit filename="main.cpp" />
-		<Extensions>
-			<lib_finder disable_auto="1" />
-		</Extensions>
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

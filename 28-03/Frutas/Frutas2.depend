@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1743528362 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\frutas2\banana.cpp
+	"Banana.h"
+	"Fruta.h"
+
+1743528331 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\frutas2\banana.h
+	<string>
+	<iostream>
+	"Fruta.h"
+
+1743528210 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\frutas2\fruta.h
+	<string>
+	<iostream>
+
+1743528536 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\frutas2\fruta.cpp
+	"Fruta.h"
+
+1743528483 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\frutas2\main.cpp
+	<iostream>
+	"Fruta.h"
+	"Melancia.h"
+	"Banana.h"
+
+1743528217 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\frutas2\melancia.h
+	<string>
+	<iostream>
+	"Fruta.h"
+
+1743528190 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\frutas2\melancia.cpp
+	"Melancia.h"
+	"Fruta.h"
+

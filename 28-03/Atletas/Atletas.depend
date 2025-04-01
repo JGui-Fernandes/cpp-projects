@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1742603336 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\atleta.cpp
+	"Atleta.h"
+
+1742603276 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\atleta.h
+	<string>
+	<iostream>
+
+1742601726 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\data.cpp
+	"Data.h"
+
+1742603252 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\data.h
+	<string>
+	<iostream>
+
+1742603200 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\competicao.cpp
+	"Competicao.h"
+
+1742603270 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\competicao.h
+	<string>
+	<iostream>
+	"Data.h"
+
+1742604735 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\main.cpp
+	<iostream>
+	<stdio.h>
+	"Atleta.h"
+	"Data.h"
+	"Nadador.h"
+	"Competicao.h"
+
+1742604737 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\nadador.h
+	<string>
+	<iostream>
+	"Atleta.h"
+
+1742602886 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\nadador.cpp
+	"Nadador.h"
+
+1743523573 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\atleta.cpp
+	"Atleta.h"
+
+1743523639 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\atleta.h
+	<string>
+	<iostream>
+
+1742604883 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\competicao.cpp
+	"Competicao.h"
+
+1742603270 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\competicao.h
+	<string>
+	<iostream>
+	"Data.h"
+
+1742603252 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\data.h
+	<string>
+	<iostream>
+
+1742601726 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\data.cpp
+	"Data.h"
+
+1743524753 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\main.cpp
+	<iostream>
+	<stdio.h>
+	"Atleta.h"
+	"Data.h"
+	"Nadador.h"
+	"Competicao.h"
+	"Corredor.h"
+	"InformacoesAtleta.h"
+
+1742604737 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\nadador.h
+	<string>
+	<iostream>
+	"Atleta.h"
+
+1742602886 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\nadador.cpp
+	"Nadador.h"
+
+1743519596 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\corredor.cpp
+	"Corredor.h"
+	"Atleta.h"
+	"Competicao.h"
+
+1743208776 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\corredor.h
+	<string>
+	<iostream>
+	"Atleta.h"
+	"Competicao.h"
+
+1743524611 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\informacoesatleta.cpp
+	"InformacoesAtleta.h"
+	"Atleta.h"
+	"Nadador.h"
+	"Corredor.h"
+
+1743519136 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\informacoesatleta.h
+	<string>
+	<iostream>
+	"Atleta.h"
+

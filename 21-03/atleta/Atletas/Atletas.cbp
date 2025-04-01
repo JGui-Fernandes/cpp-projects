@@ -32,6 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Atleta.cpp" />
+		<Unit filename="Atleta.h" />
+		<Unit filename="Competicao.cpp" />
+		<Unit filename="Competicao.h" />
+		<Unit filename="Data.cpp" />
+		<Unit filename="Data.h" />
+		<Unit filename="Nadador.cpp" />
+		<Unit filename="Nadador.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
