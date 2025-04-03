@@ -39,11 +39,12 @@ int main()
 
     brasil->adicionaFronteira(*colombia);
     brasil->adicionaFronteira(*chile);
+
     argentina->adicionaFronteira(*peru);
     argentina->adicionaFronteira(*colombia);
     argentina->adicionaFronteira(*chile);
 
-    brasil->imprimeFronteiras();
+    brasil->comparaFronteiras(*argentina);
 
 
     return 0;
