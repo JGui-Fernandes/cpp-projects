@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1743697689 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\paises\main.cpp
+	<iostream>
+	"Pais.h"
+
+1743699084 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\paises\pais.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	"Pais.h"
+
+1743698902 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\paises\pais.h
+	<string>
+	<iostream>
+
