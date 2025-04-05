@@ -9,7 +9,6 @@ class Atleta {
     public:
         Atleta();
         Atleta(char*, int);
-        virtual ~Atleta();
 
         char* getNome();
         int getIdade();
@@ -17,7 +16,10 @@ class Atleta {
         void setNome(char*);
         void setIdade(int);
 
-        void imprime_info();
+        virtual void imprime_info(){};
+
+    protected:
+        void teste();
 
     private:
         char* nome;

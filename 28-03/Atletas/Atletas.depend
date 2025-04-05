@@ -37,10 +37,10 @@
 1742602886 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\21-03\atleta\atletas\nadador.cpp
 	"Nadador.h"
 
-1743523573 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\atleta.cpp
+1743814326 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\atleta.cpp
 	"Atleta.h"
 
-1743523639 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\atleta.h
+1743814609 c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\atleta.h
 	<string>
 	<iostream>
 
@@ -59,7 +59,7 @@
 1742601726 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\data.cpp
 	"Data.h"
 
-1743524753 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\main.cpp
+1743813364 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\main.cpp
 	<iostream>
 	<stdio.h>
 	"Atleta.h"
@@ -74,10 +74,10 @@
 	<iostream>
 	"Atleta.h"
 
-1742602886 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\nadador.cpp
+1743814103 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\nadador.cpp
 	"Nadador.h"
 
-1743519596 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\corredor.cpp
+1743814326 source:c:\users\jguib\desktop\unisinos - cc\algoritmos ii\c-projects\28-03\atletas\corredor.cpp
 	"Corredor.h"
 	"Atleta.h"
 	"Competicao.h"

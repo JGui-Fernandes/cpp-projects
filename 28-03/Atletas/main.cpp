@@ -37,9 +37,6 @@ int main()
     Competicao competicao("JEMUSA", data);
     Corredor *corredor = new Corredor("Nadador profissional", 20, 75, competicao);
 
-    infos.imprime_exclusivos_atleta(nadador);
-    infos.imprime_informacoes_atleta(nadador);
-
     infos.imprime_exclusivos_atleta(corredor);
     infos.imprime_informacoes_atleta(corredor);
 

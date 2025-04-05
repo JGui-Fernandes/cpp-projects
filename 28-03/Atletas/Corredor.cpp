@@ -16,7 +16,7 @@ void Corredor::imprime_competicao(){
 }
 
 void Corredor::imprime_info(){
-    Atleta::imprime_info();
+    Atleta::teste();
     cout << "Peso: " << peso << endl;
     cout << "Competicao: " << endl;
     competicao.imprime_data();

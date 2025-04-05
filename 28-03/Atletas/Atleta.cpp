@@ -11,10 +11,6 @@ Atleta::Atleta(char* nome, int idade){
     this->idade = idade;
 }
 
-Atleta::~Atleta() {
-
-}
-
 int Atleta::getIdade(){
     return this->idade;
 }
@@ -31,7 +27,7 @@ void Atleta::setNome(char* nome){
     this->nome = nome;
 }
 
-void Atleta::imprime_info(){
+void Atleta::teste(){
     cout << "Nome: " << nome << endl;
     cout << "Idade: " << idade << endl;
 }

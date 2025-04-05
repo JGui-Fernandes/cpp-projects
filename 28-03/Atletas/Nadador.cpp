@@ -4,7 +4,7 @@ Nadador::Nadador(){
 
 }
 
-Nadador::Nadador(char* nome, int idade, char* categoria): Atleta(nome, idade){
+Nadador::Nadador(char* nome, int idade, char* categoria) : Atleta(nome, idade){
     this -> categoria = categoria;
 }
 
@@ -17,6 +17,6 @@ void Nadador::setCategoria(char* categoria){
 }
 
 void Nadador::imprime_info(){
-    Atleta::imprime_info();
+    Atleta::teste();
     cout << "Categoria: " << categoria << endl;
 }
