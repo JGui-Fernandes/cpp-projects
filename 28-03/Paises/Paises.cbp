@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="../../../Prova1/Questao1/Departamento.cpp" />
 		<Unit filename="Pais.cpp" />
 		<Unit filename="Pais.h" />
 		<Unit filename="main.cpp" />
