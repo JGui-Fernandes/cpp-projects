@@ -12,8 +12,8 @@ int main()
     lista.adicionarFinalLista('C');
     lista.adicionarFinalLista('E');
 
-    lista.adicionarPosicaoLista('B', 0);
-    lista.adicionarPosicaoLista('D', 4);
+    lista.adicionarPosicaoLista('B', 1);
+    lista.adicionarPosicaoLista('D', 3);
 
     lista.imprime();
     return 0;
